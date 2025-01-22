@@ -1,6 +1,6 @@
-# Sistema de Gestión de Mantenimiento
+# Sistema de Gestión de costos y presupuestos
 
-Sistema de gestión desarrollado en Python con PySide6 para la administración de mantenimiento.
+Sistema de gestión de costos y presupuestos desarrollado en Python con PySide6 para la administración de mantenimiento.
 
 ## Características
 
